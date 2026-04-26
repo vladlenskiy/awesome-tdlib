@@ -106,9 +106,3 @@ Pull requests welcome. To be included, an entry must:
 - be in a working state. Mark unmaintained projects with `(unmaintained)` in the description rather than removing them silently.
 
 Open a PR adding the entry to the relevant alphabetically-ordered section. One entry per line in the format `- [owner/repo](url) — One-line description.`
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.

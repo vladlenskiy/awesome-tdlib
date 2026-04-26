@@ -32,6 +32,10 @@ This list focuses on **TDLib-based** projects. MTProto reimplementations (Teleth
 
 - [ivk1800/tdlib-dart](https://github.com/ivk1800/tdlib-dart) — Dart bindings generated from `td_api.tl`.
 
+### Emacs Lisp
+
+- [zevlg/telega.el](https://github.com/zevlg/telega.el) — GNU Emacs Telegram client built on TDLib.
+
 ### Go
 
 - [zelenin/go-tdlib](https://github.com/zelenin/go-tdlib) — Go wrapper for TDLib.
@@ -41,8 +45,9 @@ This list focuses on **TDLib-based** projects. MTProto reimplementations (Teleth
 - [tdlight-team/tdlight-java](https://github.com/tdlight-team/tdlight-java) — Full Java client supporting both bots and userbots, based on TDLib.
 - [TGX-Android/tdlib](https://github.com/TGX-Android/tdlib) — Prebuilt TDLib Java bundle used in Telegram X for Android.
 
-### Kotlin Multiplatform
+### Kotlin
 
+- [tdlibx/td-ktx](https://github.com/tdlibx/td-ktx) — Kotlin coroutines extensions for TDLib (JVM).
 - [xephosbot/tdlib-kmp](https://github.com/xephosbot/tdlib-kmp) — TDLib Kotlin Multiplatform library.
 
 ### JavaScript / TypeScript (Node.js)
@@ -60,7 +65,9 @@ This list focuses on **TDLib-based** projects. MTProto reimplementations (Teleth
 
 ### Python
 
+- [alexander-akhmetov/python-telegram](https://github.com/alexander-akhmetov/python-telegram) — Python client for TDLib.
 - [pylakey/aiotdlib](https://github.com/pylakey/aiotdlib) — Asyncio Python client based on TDLib.
+- [pytdbot/client](https://github.com/pytdbot/client) — Asynchronous TDLib wrapper for Python.
 
 ### React Native
 
@@ -83,6 +90,10 @@ This list focuses on **TDLib-based** projects. MTProto reimplementations (Teleth
 
 - [Unigram](https://github.com/UnigramDev/Unigram) — Open-source Telegram client for Windows.
 - [Telegram X for Android](https://github.com/TGX-Android/Telegram-X) — Alternative Android client built on TDLib.
+- [evgeny-nadymov/telegram-react](https://github.com/evgeny-nadymov/telegram-react) — Experimental Telegram web client using TDLib compiled to WebAssembly.
+- [paper-plane-developers/paper-plane](https://github.com/paper-plane-developers/paper-plane) — Modern GTK Telegram client for Linux.
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) — Telegram client for Android built with Jetpack Compose and Material Design 3.
+- [Wunderfitz/harbour-fernschreiber](https://github.com/Wunderfitz/harbour-fernschreiber) — Telegram client for Sailfish OS.
 
 ## Build tooling
 
